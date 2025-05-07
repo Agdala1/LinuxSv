@@ -68,7 +68,7 @@
 <td width="50%">
 <h3 align="center">Descargalo y deja tu comentario</h3>
 <div align="center">
-<a href="https://script.google.com/macros/s/AKfycbxRVydUDEV_jAUEppxr12tdi07fF3Zha6HwETJl5BGw2GuL0Wg6Yo9Kr3tfmlzL0Yw-mw/exec" target="_blank"><img src="https://i.imgur.com/zYeQIT5.png" width="400" alt="Descarga Linux Sv"></a>
+<a href="https://script.google.com/macros/s/AKfycbxRVydUDEV_jAUEppxr12tdi07fF3Zha6HwETJl5BGw2GuL0Wg6Yo9Kr3tfmlzL0Yw-mw/exec?download=true" target="_blank"><img src="https://i.imgur.com/zYeQIT5.png" width="400" alt="Descarga Linux Sv"></a>
 <p>
 </p>
 <p>¡Prepárate para experimentar el poder de Linux SV! Un sistema operativo rápido, seguro y altamente personalizable que eleva tu experiencia informática. 🚀✨</p>
@@ -114,7 +114,7 @@ Estamos emocionados de presentarles una combinación poderosa para potenciar su 
 <table>
   <td align="center">
     <h3 align="center">🌐 Descarga Linux Sv en El Salvador: Da el Salto al Software Libre 🌐</h3>
-    <a href="https://script.google.com/macros/s/AKfycbxRVydUDEV_jAUEppxr12tdi07fF3Zha6HwETJl5BGw2GuL0Wg6Yo9Kr3tfmlzL0Yw-mw/exec" target="_blank"> <img src="https://i.imgur.com/eihjsdb.png" width="400" align="center" alt="Descarga Linux Sv"></a>
+    <a href="https://script.google.com/macros/s/AKfycbxRVydUDEV_jAUEppxr12tdi07fF3Zha6HwETJl5BGw2GuL0Wg6Yo9Kr3tfmlzL0Yw-mw/exec?download=true" target="_blank"> <img src="https://i.imgur.com/eihjsdb.png" width="400" align="center" alt="Descarga Linux Sv"></a>
     <p>¿Estás listo para explorar el emocionante mundo del software libre? Linux es una opción increíble para todos aquellos que buscan un sistema operativo seguro, flexible y personalizable. Aquí tienes todo lo que necesitas saber para comenzar con Linux Sv</p>
   </td>
 </table>
